@@ -7,19 +7,18 @@ The Faceshield can be fabricated using the 3D printing Technology.
 Given details and designs are verified and created by us in FabLab of Govt engineering college Thrissur as part of COVID19 activities. 
 
 
+
+
 FABRICATION OF FACESHIELD FRAME
 
 1. The face shield 3D design is in repo (filename.stl )
-
-
-
-
-
-
+!(Faceshield_mesh.jpg)
 
 
 
 THE design is frame which is fixed to head having an elastic band on it. The frame design is implimented with complient mechanism which allow effient amount of compression and expansion of frame without fail.
+
+
 
 
 2. The design is imported in gcode converter software for 3D printing gcode creation.
