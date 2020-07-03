@@ -1,4 +1,5 @@
 ﻿FACE SHIELD
+ 
 
 This repository contains the detailed instructions and design files to Faceshield which is used as protective equipment around the world in the COVID19 situation.
 Faceshield is very useful as a protective gear since it prevents the aerosols or viral effluent contact with our face. Thus prevents the spread.
@@ -11,8 +12,9 @@ Given details and designs are verified and created by us in FabLab of Govt engin
 
 FABRICATION OF FACESHIELD FRAME
 
+
 1. The face shield 3D design is in repo (filename.stl )
-!(Faceshield_mesh.jpg)
+!(https://github.com/aswinkumar1027/Faceshield/blob/master/Images/photo_2020-07-02_23-49-51.jpg)
 
 
 
