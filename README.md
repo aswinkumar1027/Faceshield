@@ -58,7 +58,8 @@ ASSEMBLY OF FACESHIELD
 
 
 
-
+** A faceshield Scale and Tool have been developed for easy replacement of transparent safety screen after one time use. Using of scale and tool makes it easier
+in replacement
 
 
 
