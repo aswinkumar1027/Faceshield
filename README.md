@@ -59,7 +59,9 @@ ASSEMBLY OF FACESHIELD
 
 
 ** A faceshield Scale and Tool have been developed for easy replacement of transparent safety screen after one time use. Using of scale and tool makes it easier
-in replacement
+in replacement. The tool and scale were fabricated using Laser cutting on acrylic )
+
+(Tool and scale images have been uploaded in Images directory in repo. Design files of tool and scale were uploaded)
 
 
 
