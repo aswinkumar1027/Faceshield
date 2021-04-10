@@ -14,7 +14,7 @@ FABRICATION OF FACESHIELD FRAME
 
 
 1. The face shield 3D design is in repo (filename.stl )
-![]("faceshield view.jpg")
+![]("faceshield%20view.jpg")
 
 
 
