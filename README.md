@@ -54,7 +54,7 @@ faceshieldmodified.stl
 
 
 ASSEMBLY OF FACESHIELD
-![](images/Assembly_final.jpg)
+![](Images/Assembly_final.jpg)
 
 
 
