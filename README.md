@@ -1,4 +1,4 @@
-﻿FACE SHIELD
+FACE SHIELD
  
 
 This repository contains the detailed instructions and design files to Faceshield which is used as protective equipment around the world in the COVID19 situation.
@@ -32,31 +32,29 @@ THE design is frame which is fixed to head having an elastic band on it. The fra
 
 
 orientation is set to base-flat inorder to reduce the support printing.
-
+![](cura_image_imported.jpg)
 
 
 3. The 3d Printing parameters are given below:
 
    Details are as per best low time-good quality criteria satified from several conducted samples of frame.
 
+   ![](property1.jpg)
+   ![](property2.jpg)
+   ![](property3.jpg)
+   ![](property4.jpg)
    
-   
-
-
-
-
-
- 
     
 
 4. The gcode file is in repo. Direct feed this .gcode file to printer to get the print.
 
-( frame_image)
+![](Faceshield_mesh.jpg)
 
-
+faceshieldmodified.stl
 
 
 ASSEMBLY OF FACESHIELD
+![](images/Assembly_final.jpg)
 
 
 
